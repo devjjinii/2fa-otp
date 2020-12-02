@@ -1,2 +1,8 @@
-# google-otp
-2FA 를 위한 구글 OTP
+## 2FA 를 위한 구글 OTP 연동
+
+
+* 참고
+  * https://enterkey.tistory.com/221
+  * https://zero-gravity.tistory.com/221
+  * https://lasdri.tistory.com/793
+  * https://hune.tistory.com/23
