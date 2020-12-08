@@ -41,7 +41,7 @@ public class GoogleOTP {
 
         String encodedKey = new String(bEncodedKey);
         // 프로퍼티로 뺄 Key 직접 지정 가능
-        String propertyKey = "it2elp4AAaskzdf3";
+        String propertyKey = "";
         String madeKey = propertyKey.replace(" ", "").toUpperCase();
 
         String url = getQRBarcodeURL(userName, hostName, madeKey);
